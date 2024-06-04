@@ -44,8 +44,17 @@
             "id": 9,
             "name": "I",
             "line": 2
+        },
+        {
+            "id": 10,
+            "name": "J",
+            "line": 2
+        },
+        {
+            "id": 11,
+            "name": "K",
+            "line": 2
         }
-
     ],
     "links": [
         {
@@ -82,6 +91,16 @@
             "source": 8,
             "target": 9,
             "value": 11
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 46
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 43
         }
     ]
 }
